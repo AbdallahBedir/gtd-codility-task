@@ -242,6 +242,10 @@ footer .footer__wrapper .footer__column ul{
     list-style: none;
     padding-left: 0;
 }
+footer .footer__wrapper .footer__column ul li a{
+    color:#fff;
+    text-decoration: none;
+}
 footer .footer__wrapper .footer__column ul li h4{
     margin: 5px 0;
 }
